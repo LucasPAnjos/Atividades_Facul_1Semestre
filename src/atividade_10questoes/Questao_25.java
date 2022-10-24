@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Workstation
+ * @author Lucas Pinheiro dos Anjos - IFBA - 1º Semestre
  */
 public class Questao_25 {
     

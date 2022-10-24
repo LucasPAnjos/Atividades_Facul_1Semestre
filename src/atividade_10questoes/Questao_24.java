@@ -6,7 +6,7 @@ package atividade_10questoes;
 
 /**
  *
- * @author Workstation
+ * @author Lucas Pinheiro dos Anjos - IFBA - 1º Semestre
  */
 public class Questao_24 {
     
